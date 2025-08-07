@@ -1,6 +1,7 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
 import TheWelcome from './components/TheWelcome.vue'
+import chaoqunhan from './components/chaoqunhan.vue'
 import JSON from './components/JSON.vue'
 </script>
 
@@ -14,7 +15,7 @@ import JSON from './components/JSON.vue'
   </header>
 
   <main>
-    <TheWelcome />
+    <JSON />
   </main>
 </template>
 
